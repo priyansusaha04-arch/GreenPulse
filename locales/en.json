@@ -1,0 +1,109 @@
+{
+  "appName": "GreenPulse",
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "cropDetails": "Crop Details",
+    "leafAnalysis": "Leaf Analysis",
+    "pesticides": "Pesticide Suggestions",
+    "reports": "Reports",
+    "regionOverview": "Region Overview",
+    "alerts": "Alerts",
+    "about": "About",
+    "settings": "Settings",
+    "help": "Help",
+    "regionDetails": "Region Details",
+    "farmerDetails": "Farmer Details",
+    "pesticideApprovals": "Pesticide Approvals",
+    "usageAnalytics": "Usage Analytics"
+  },
+  "buttons": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "upload": "Upload",
+    "download": "Download",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "viewDetails": "View Details",
+    "delaySpray": "Delay Spray",
+    "proceedSpray": "Proceed Spray",
+    "scheduleIrrigation": "Schedule Irrigation",
+    "spotSpray": "Spot Spray",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "labels": {
+    "leafWetness": "Leaf Wetness",
+    "ndvi": "NDVI",
+    "pri": "PRI",
+    "chlorophyllIndex": "Chlorophyll Index",
+    "infectionRisk": "Infection Risk",
+    "soilMoisture": "Soil Moisture",
+    "soilTemperature": "Soil Temperature",
+    "airTemperature": "Air Temperature",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "batteryLevel": "Battery Level",
+    "pesticideVolume": "Pesticide Volume"
+  },
+  "status": {
+    "dry": "Dry",
+    "moderate": "Moderate",
+    "wet": "Wet",
+    "low": "Low",
+    "normal": "Normal",
+    "high": "High"
+  },
+  "alerts": {
+    "rainForecast": "Rain expected in {hours} hrs",
+    "noData": "No data available"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "dateOfBirth": "Date of Birth",
+    "role": "Role",
+    "farmer": "Farmer",
+    "government": "Government Official",
+    "farmerType": "Farmer Type",
+    "smallScale": "Small-scale",
+    "mediumScale": "Medium-scale",
+    "largeScale": "Large-scale",
+    "cropsGrown": "Crops Grown",
+    "fieldArea": "Field Area (acres)",
+    "location": "Location",
+    "acceptTerms": "Accept Terms and Conditions"
+  },
+  "dashboard": {
+    "cropHealth": {
+      "title": "Crop Health Parameters",
+      "leafWetnessStatus": "Leaf wetness status and last measurement",
+      "ndviGauge": "NDVI health score with 7-day trend",
+      "infectionRiskLevel": "Current infection risk assessment"
+    },
+    "environment": {
+      "title": "Environmental & Soil Parameters",
+      "soilConditions": "Current soil moisture and temperature",
+      "weatherConditions": "Air temperature, humidity, and wind",
+      "operationalStatus": "Battery and pesticide levels"
+    }
+  },
+  "about": {
+    "contact": "Contact us at verdantix@gmail.com",
+    "credit": "Developed by Team Verdantix"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिन्दी",
+    "odia": "ଓଡ଼ିଆ"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "appName": "ଗ୍ରୀନ୍ପଲ୍ସ",
+  "nav": {
+    "home": "ହୋମ୍",
+    "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
+    "cropDetails": "ଫସଲ ବିବରଣୀ",
+    "leafAnalysis": "ପତ୍ର ବିଶ୍ଳେଷଣ",
+    "pesticides": "କୀଟନାଶକ ପରାମର୍ଶ",
+    "reports": "ରିପୋର୍ଟ୍",
+    "regionOverview": "ଅଞ୍ଚଳ ସମୀକ୍ଷା",
+    "alerts": "ଆଲର୍ଟ",
+    "about": "ଆମ ବିଷୟରେ",
+    "settings": "ସେଟିଂସ୍",
+    "help": "ସାହାଯ୍ୟ",
+    "regionDetails": "ଅଞ୍ଚଳ ବିବରଣୀ",
+    "farmerDetails": "କୃଷକ ବିବରଣୀ",
+    "pesticideApprovals": "କୀଟନାଶକ ଅନୁମୋଦନ",
+    "usageAnalytics": "ବ୍ୟବହାର ବିଶ୍ଳେଷଣ"
+  },
+  "buttons": {
+    "login": "ଲଗଇନ୍",
+    "signup": "ସାଇନ୍ ଅପ୍",
+    "upload": "ଅପଲୋଡ୍",
+    "download": "ଡାଉନଲୋଡ୍",
+    "save": "ସେଭ୍",
+    "cancel": "ବାତିଲ୍",
+    "submit": "ଦାଖଲ କରନ୍ତୁ",
+    "viewDetails": "ବିବରଣୀ ଦେଖନ୍ତୁ",
+    "delaySpray": "ସ୍ପ୍ରେ ବିଳମ୍ବ",
+    "proceedSpray": "ସ୍ପ୍ରେ ଆଗକୁ",
+    "scheduleIrrigation": "ଜଳସେଚନ ନିର୍ଧାରଣ",
+    "spotSpray": "ସ୍ପଟ୍ ସ୍ପ୍ରେ",
+    "getStarted": "ଆରମ୍ଭ କରନ୍ତୁ",
+    "learnMore": "ଅଧିକ ଜାଣନ୍ତୁ"
+  },
+  "labels": {
+    "leafWetness": "ପତ୍ର ଆର୍ଦ୍ରତା",
+    "ndvi": "NDVI",
+    "pri": "PRI",
+    "chlorophyllIndex": "କ୍ଲୋରୋଫିଲ୍ ସୂଚକାଙ୍କ",
+    "infectionRisk": "ସଂକ୍ରମଣ ଝୁମ୍କୀ",
+    "soilMoisture": "ମାଟିର ଆର୍ଦ୍ରତା",
+    "soilTemperature": "ମାଟିର ତାପମାତ୍ରା",
+    "airTemperature": "ବାୟୁ ତାପମାତ୍ରା",
+    "humidity": "ଆର୍ଦ୍ରତା",
+    "windSpeed": "ବାୟୁ ବେଗ",
+    "batteryLevel": "ବ୍ୟାଟେରୀ ସ୍ତର",
+    "pesticideVolume": "କୀଟନାଶକ ପରିମାଣ"
+  },
+  "status": {
+    "dry": "ଶୁଖିଲା",
+    "moderate": "ମଧ୍ୟମ",
+    "wet": "ଓଦା",
+    "low": "କମ୍",
+    "normal": "ସାଧାରଣ",
+    "high": "ଉଚ୍ଚ"
+  },
+  "alerts": {
+    "rainForecast": "{hours} ଘଣ୍ଟାରେ ବର୍ଷା ଅନୁମାନ",
+    "noData": "କୌଣସି ତଥ୍ୟ ଉପଲବ୍ଧ ନାହିଁ"
+  },
+  "auth": {
+    "email": "ଇମେଲ୍",
+    "password": "ପାସୱାର୍ଡ",
+    "confirmPassword": "ପାସୱାର୍ଡ ନିଶ୍ଚିତ କରନ୍ତୁ",
+    "fullName": "ପୂର୍ଣ୍ଣ ନାମ",
+    "phoneNumber": "ଫୋନ୍ ନମ୍ବର",
+    "dateOfBirth": "ଜନ୍ମ ତାରିଖ",
+    "role": "ଭୂମିକା",
+    "farmer": "କୃଷକ",
+    "government": "ସରକାରୀ ଅଧିକାରୀ",
+    "farmerType": "କୃଷକ ପ୍ରକାର",
+    "smallScale": "ଛୋଟ ପରିମାଣ",
+    "mediumScale": "ମଧ୍ୟମ ପରିମାଣ",
+    "largeScale": "ବଡ଼ ପରିମାଣ",
+    "cropsGrown": "ଚାଷ କରାଯାଇଥିବା ଫସଲ",
+    "fieldArea": "କ୍ଷେତ୍ର ଆୟତନ (ଏକର)",
+    "location": "ସ୍ଥାନ",
+    "acceptTerms": "ନିୟମ ଏବଂ ସର୍ତ୍ତାବଳୀ ଗ୍ରହଣ କରନ୍ତୁ"
+  },
+  "dashboard": {
+    "cropHealth": {
+      "title": "ଫସଲ ସ୍ୱାସ୍ଥ୍ୟ ପାରାମିଟର",
+      "leafWetnessStatus": "ପତ୍ର ଆର୍ଦ୍ରତା ସ୍ଥିତି ଏବଂ ଶେଷ ମାପ",
+      "ndviGauge": "7-ଦିନ ଧାରା ସହିତ NDVI ସ୍ୱାସ୍ଥ୍ୟ ସ୍କୋର",
+      "infectionRiskLevel": "ବର୍ତ୍ତମାନ ସଂକ୍ରମଣ ଝୁମ୍କୀ ମୂଲ୍ୟାଙ୍କନ"
+    },
+    "environment": {
+      "title": "ପରିବେଶ ଏବଂ ମାଟି ପାରାମିଟର",
+      "soilConditions": "ବର୍ତ୍ତମାନ ମାଟିର ଆର୍ଦ୍ରତା ଏବଂ ତାପମାତ୍ରା",
+      "weatherConditions": "ବାୟୁ ତାପମାତ୍ରା, ଆର୍ଦ୍ରତା ଏବଂ ବାୟୁ",
+      "operationalStatus": "ବ୍ୟାଟେରୀ ଏବଂ କୀଟନାଶକ ସ୍ତର"
+    }
+  },
+  "about": {
+    "contact": "ଯୋଗାଯୋଗ: verdantix@gmail.com",
+    "credit": "ଟିମ୍ Verdantix ଦ୍ଵାରା ଉନ୍ନତ"
+  },
+  "theme": {
+    "light": "ଉଜ୍ଜ୍ୱଳ",
+    "dark": "ଅନ୍ଧକାର",
+    "system": "ସିଷ୍ଟମ୍"
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिन्दी",
+    "odia": "ଓଡ଼ିଆ"
+  }
+}

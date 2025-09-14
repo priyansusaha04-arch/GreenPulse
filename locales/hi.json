@@ -1,0 +1,109 @@
+{
+  "appName": "ग्रीनपल्स",
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "cropDetails": "फसल विवरण",
+    "leafAnalysis": "पत्ती विश्लेषण",
+    "pesticides": "कीटनाशक सुझाव",
+    "reports": "रिपोर्ट",
+    "regionOverview": "क्षेत्रीय अवलोकन",
+    "alerts": "अलर्ट",
+    "about": "हमारे बारे में",
+    "settings": "सेटिंग्स",
+    "help": "सहायता",
+    "regionDetails": "क्षेत्र विवरण",
+    "farmerDetails": "किसान विवरण",
+    "pesticideApprovals": "कीटनाशक अनुमोदन",
+    "usageAnalytics": "उपयोग विश्लेषण"
+  },
+  "buttons": {
+    "login": "लॉग इन",
+    "signup": "साइन अप",
+    "upload": "अपलोड",
+    "download": "डाउनलोड",
+    "save": "सेव",
+    "cancel": "रद्द करें",
+    "submit": "जमा करें",
+    "viewDetails": "विवरण देखें",
+    "delaySpray": "स्प्रे में देरी",
+    "proceedSpray": "स्प्रे करें",
+    "scheduleIrrigation": "सिंचाई निर्धारित करें",
+    "spotSpray": "स्पॉट स्प्रे",
+    "getStarted": "शुरू करें",
+    "learnMore": "और जानें"
+  },
+  "labels": {
+    "leafWetness": "पत्ती नमी",
+    "ndvi": "NDVI",
+    "pri": "PRI",
+    "chlorophyllIndex": "क्लोरोफिल सूचकांक",
+    "infectionRisk": "संक्रमण जोखिम",
+    "soilMoisture": "मृदा नमी",
+    "soilTemperature": "मृदा तापमान",
+    "airTemperature": "हवा का तापमान",
+    "humidity": "आर्द्रता",
+    "windSpeed": "हवा की गति",
+    "batteryLevel": "बैटरी स्तर",
+    "pesticideVolume": "कीटनाशक मात्रा"
+  },
+  "status": {
+    "dry": "सूखा",
+    "moderate": "मध्यम",
+    "wet": "गीला",
+    "low": "कम",
+    "normal": "सामान्य",
+    "high": "उच्च"
+  },
+  "alerts": {
+    "rainForecast": "{hours} घंटे में बारिश की उम्मीद है",
+    "noData": "कोई डेटा उपलब्ध नहीं"
+  },
+  "auth": {
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "fullName": "पूरा नाम",
+    "phoneNumber": "फोन नंबर",
+    "dateOfBirth": "जन्म तिथि",
+    "role": "भूमिका",
+    "farmer": "किसान",
+    "government": "सरकारी अधिकारी",
+    "farmerType": "किसान प्रकार",
+    "smallScale": "छोटे पैमाने",
+    "mediumScale": "मध्यम पैमाने",
+    "largeScale": "बड़े पैमाने",
+    "cropsGrown": "उगाई गई फसलें",
+    "fieldArea": "खेत का क्षेत्रफल (एकड़)",
+    "location": "स्थान",
+    "acceptTerms": "नियम और शर्तें स्वीकार करें"
+  },
+  "dashboard": {
+    "cropHealth": {
+      "title": "फसल स्वास्थ्य पैरामीटर",
+      "leafWetnessStatus": "पत्ती नमी स्थिति और अंतिम माप",
+      "ndviGauge": "7-दिन की प्रवृत्ति के साथ NDVI स्वास्थ्य स्कोर",
+      "infectionRiskLevel": "वर्तमान संक्रमण जोखिम मूल्यांकन"
+    },
+    "environment": {
+      "title": "पर्यावरणीय और मृदा पैरामीटर",
+      "soilConditions": "वर्तमान मृदा नमी और तापमान",
+      "weatherConditions": "हवा का तापमान, आर्द्रता और हवा",
+      "operationalStatus": "बैटरी और कीटनाशक स्तर"
+    }
+  },
+  "about": {
+    "contact": "संपर्क करें: verdantix@gmail.com",
+    "credit": "टीम Verdantix द्वारा विकसित"
+  },
+  "theme": {
+    "light": "हल्का",
+    "dark": "गहरा",
+    "system": "सिस्टम"
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिन्दी",
+    "odia": "ଓଡ଼ିଆ"
+  }
+}
